@@ -6,6 +6,7 @@ import Cart from './pages/Cart/Cart';
 import ShopContextProvider from './context/shop-context';
 
 function App() {
+
   return (
     <div className="App">
       <ShopContextProvider>
@@ -13,8 +14,9 @@ function App() {
         {/* navbar here */}
         <Navbar/>
         <Routes>
-          <Route path='/' element={<Shop/>}/>
+          <Route path='/react-context-cart-app' element={<Shop/>}/>
           <Route path='/cart' element={<Cart/>}/>
+          <Route path='*' element={<div>Path not resolved</div>}/>
         </Routes>
       </Router>
       </ShopContextProvider>
