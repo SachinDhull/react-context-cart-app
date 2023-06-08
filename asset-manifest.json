@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-context-cart-app/static/css/main.534f67d3.css",
+    "main.css": "/react-context-cart-app/static/css/main.2f8e940f.css",
     "main.js": "/react-context-cart-app/static/js/main.7c90b120.js",
     "static/media/2.png": "/react-context-cart-app/static/media/2.5f080d9e47bf46ca3fce.png",
     "static/media/3.png": "/react-context-cart-app/static/media/3.c7785c796d0b2bf5aa2b.png",
@@ -11,11 +11,11 @@
     "static/media/6.webp": "/react-context-cart-app/static/media/6.5828a0fe3c77468b8726.webp",
     "static/media/7.webp": "/react-context-cart-app/static/media/7.59c9a0eba54726d9fc95.webp",
     "index.html": "/react-context-cart-app/index.html",
-    "main.534f67d3.css.map": "/react-context-cart-app/static/css/main.534f67d3.css.map",
+    "main.2f8e940f.css.map": "/react-context-cart-app/static/css/main.2f8e940f.css.map",
     "main.7c90b120.js.map": "/react-context-cart-app/static/js/main.7c90b120.js.map"
   },
   "entrypoints": [
-    "static/css/main.534f67d3.css",
+    "static/css/main.2f8e940f.css",
     "static/js/main.7c90b120.js"
   ]
 }
